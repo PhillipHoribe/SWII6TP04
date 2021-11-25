@@ -1,0 +1,17 @@
+C:\Users\Philc\Desktop\SWII6\TesteApi\Consumindo_WebAPI2_Livros\bin\Debug\netcoreapp3.1\Consumindo_WebAPI2_Livros.exe
+C:\Users\Philc\Desktop\SWII6\TesteApi\Consumindo_WebAPI2_Livros\bin\Debug\netcoreapp3.1\Consumindo_WebAPI2_Livros.deps.json
+C:\Users\Philc\Desktop\SWII6\TesteApi\Consumindo_WebAPI2_Livros\bin\Debug\netcoreapp3.1\Consumindo_WebAPI2_Livros.runtimeconfig.json
+C:\Users\Philc\Desktop\SWII6\TesteApi\Consumindo_WebAPI2_Livros\bin\Debug\netcoreapp3.1\Consumindo_WebAPI2_Livros.runtimeconfig.dev.json
+C:\Users\Philc\Desktop\SWII6\TesteApi\Consumindo_WebAPI2_Livros\bin\Debug\netcoreapp3.1\Consumindo_WebAPI2_Livros.dll
+C:\Users\Philc\Desktop\SWII6\TesteApi\Consumindo_WebAPI2_Livros\bin\Debug\netcoreapp3.1\Consumindo_WebAPI2_Livros.pdb
+C:\Users\Philc\Desktop\SWII6\TesteApi\Consumindo_WebAPI2_Livros\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\Philc\Desktop\SWII6\TesteApi\Consumindo_WebAPI2_Livros\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Philc\Desktop\SWII6\TesteApi\Consumindo_WebAPI2_Livros\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Philc\Desktop\SWII6\TesteApi\Consumindo_WebAPI2_Livros\obj\Debug\netcoreapp3.1\Consumindo_WebAPI2_Livros.csprojAssemblyReference.cache
+C:\Users\Philc\Desktop\SWII6\TesteApi\Consumindo_WebAPI2_Livros\obj\Debug\netcoreapp3.1\Consumindo_WebAPI2_Livros.AssemblyInfoInputs.cache
+C:\Users\Philc\Desktop\SWII6\TesteApi\Consumindo_WebAPI2_Livros\obj\Debug\netcoreapp3.1\Consumindo_WebAPI2_Livros.AssemblyInfo.cs
+C:\Users\Philc\Desktop\SWII6\TesteApi\Consumindo_WebAPI2_Livros\obj\Debug\netcoreapp3.1\Consumindo_WebAPI2_Livros.csproj.CoreCompileInputs.cache
+C:\Users\Philc\Desktop\SWII6\TesteApi\Consumindo_WebAPI2_Livros\obj\Debug\netcoreapp3.1\Consumindo_WebAPI2_Livros.csproj.CopyComplete
+C:\Users\Philc\Desktop\SWII6\TesteApi\Consumindo_WebAPI2_Livros\obj\Debug\netcoreapp3.1\Consumindo_WebAPI2_Livros.dll
+C:\Users\Philc\Desktop\SWII6\TesteApi\Consumindo_WebAPI2_Livros\obj\Debug\netcoreapp3.1\Consumindo_WebAPI2_Livros.pdb
+C:\Users\Philc\Desktop\SWII6\TesteApi\Consumindo_WebAPI2_Livros\obj\Debug\netcoreapp3.1\Consumindo_WebAPI2_Livros.genruntimeconfig.cache
